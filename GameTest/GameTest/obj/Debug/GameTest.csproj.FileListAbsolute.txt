@@ -1,0 +1,10 @@
+C:\Users\VodviL\source\repos\GameTest\GameTest\obj\Debug\GameTest.csprojAssemblyReference.cache
+C:\Users\VodviL\source\repos\GameTest\GameTest\obj\Debug\GameTest.Form1.resources
+C:\Users\VodviL\source\repos\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\VodviL\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Users\VodviL\source\repos\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\VodviL\source\repos\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Users\VodviL\source\repos\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Users\VodviL\source\repos\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Users\VodviL\source\repos\GameTest\GameTest\obj\Debug\GameTest.pdb
+C:\Users\VodviL\source\repos\GameTest\GameTest\obj\Debug\GameTest.GameView.resources
